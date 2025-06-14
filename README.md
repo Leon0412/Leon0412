@@ -1,7 +1,9 @@
 ## Hi there, I'm Leon 👋
 
-I am a software developer from Germany and I am a part-time freelancer under the name LSN-Studios - I create Flutter apps and websites with WordPress.
+I am a software developer from Germany and I am a part-time freelancer under the name LSN-Studios - I create Flutter apps and websites with WordPress. I'm passionate about helping others and that's why most of my apps are emergency apps or apps that support and help others in emergency situations.
 My main job currently is as a flutter and web developer at an agency.
+
+I have a vocational baccalaureate in computer engineering with business informatics, as well as completed vocational education as an IT specialist for application development.
 - - -
 ### I work most frequently with:
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
